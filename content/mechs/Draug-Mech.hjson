@@ -1,0 +1,22 @@
+name: Draug
+description: An unnaturally elongated mech. Spews messy lightning all over your enemies.
+speed: 0.3
+drag: 0.28
+buildPower: 0
+drillPower: 2
+mineSpeed: 2
+flying: true
+health: 80
+weapon: {
+reload: 9999999999
+name: Draug-Weapon
+bullet: {
+type: BombBulletType
+lifetime: 0
+damage: 0
+hitSound: click
+shootEffect: none
+despawnEffect: none
+smokeEffect: none
+}
+}

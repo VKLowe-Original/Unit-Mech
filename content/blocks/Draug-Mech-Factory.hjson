@@ -1,0 +1,14 @@
+name: Draug Mech Pad
+description: Transform into the Electra mech.
+type: MechPad
+mech: Draug-Mech
+size: 2
+consumes: {
+  power: 1.4
+}
+category: upgrade
+research: draug-factory
+requirements: [
+  copper/60
+  lead/140
+]

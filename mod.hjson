@@ -1,0 +1,6 @@
+name: "Unit-Mech"
+displayName: "[yellow]Unit [white]> [gold]Mech[]"
+author: "[#b][USMP-I] [green]VK[lime]Lo[forest]we[white]"
+description: "[gold]Add Draug-Mech[]"
+version: "3.1"
+minGameVersion: "104"
