@@ -1,6 +1,6 @@
 name: "unit-mech"
 displayName: "[gold]Unit  Mech"
 author: "[#b][USMP-I] [green]VK[lime]Lo[forest]we[green] "
-description: "[gold] [] Добовляет реконострукторы мехов [gold] [] [gold]Драугр[] и [gold]Дух"
+description: "[gold] [] Добавляет реконострукторы мехов [gold] [] [gold]Драугр[] и [gold]Дух"
 version: "1.1"
 minGameVersion: "104"
