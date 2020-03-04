@@ -1,11 +1,12 @@
 name: Draug
-description: An unnaturally elongated mech. Spews messy lightning all over your enemies.
+description: Removing AI freed up space for another.
 speed: 0.3
 drag: 0.28
 buildPower: 0
-drillPower: 2
-mineSpeed: 2
+drillPower: 3
+mineSpeed: 3
 flying: true
+itemCapacity: 40
 health: 80
 weapon: {
 reload: 9999999999

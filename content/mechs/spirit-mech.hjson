@@ -1,0 +1,25 @@
+name: Spirit
+description: Removing AI freed up space for another.
+speed: 0.42
+drag: 0.22
+canHeal: true
+buildPower: 0
+drillPower: 0
+mineSpeed: 0
+itemCapacity: 0
+flying: true
+health: 100
+range: 100
+engineSize: 1.8
+engineOffset: 5.7
+weapon: {
+   name: Spirit-Weapon
+   length: 1.5
+   reload: 30
+   width: 0.5
+   alternate: true
+   ejectEffect: none
+   recoil: 2
+   bullet: healBulletBig
+   shootSound: Sounds.pew
+}

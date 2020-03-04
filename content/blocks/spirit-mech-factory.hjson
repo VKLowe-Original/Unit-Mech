@@ -1,0 +1,15 @@
+name: Spirit Mech Pad
+description: Transform into the Spirit mech.
+type: MechPad
+mech: spirit-mech
+size: 2
+consumes: {
+  power: 1.4
+}
+category: upgrade
+research: spirit-factory
+requirements: [
+  silicon/60
+  graphite/100
+  lead/140
+]
