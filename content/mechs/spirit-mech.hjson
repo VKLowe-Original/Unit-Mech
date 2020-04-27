@@ -20,6 +20,6 @@ weapon: {
    alternate: true
    ejectEffect: none
    recoil: 2
-   bullet: healBulletBig
+   bullet: healBullet
    shootSound: Sounds.pew
 }
